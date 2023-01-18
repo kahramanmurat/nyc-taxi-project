@@ -16,15 +16,18 @@ docker run -it \
 
 ##### Installing pgcli
 
-```pip install pgcli
+```
+pip install pgcli
 ```
 
 ##### Using pgcli to connect to Postgres
 
-```pgcli -h localhost -p 5432 -u root -d ny_taxi
+```
+pgcli -h localhost -p 5432 -u root -d ny_taxi
 ```
 
-```pgcli -h localhost -p 5432 -u root -d ny_taxi
+```
+pgcli -h localhost -p 5432 -u root -d ny_taxi
 ```
 
 ##### Download Data

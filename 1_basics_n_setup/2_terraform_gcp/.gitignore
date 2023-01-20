@@ -1,0 +1,6 @@
+/ny_taxi_postgres_data
+/terraform
+.ipynb_checkpoints
+*.csv
+/google-cloud-sdk
+.DS_Store

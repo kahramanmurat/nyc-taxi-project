@@ -22,7 +22,7 @@ Which tag has the following text? - *Write the image ID to the file*
 ```
 --iidfile string          Write the image ID to the file
 ```
-```
+
 
 
 ## Question 2. Understanding docker first run 

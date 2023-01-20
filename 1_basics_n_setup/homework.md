@@ -22,7 +22,6 @@ Which tag has the following text? - *Write the image ID to the file*
 ```
 --iidfile string          Write the image ID to the file
 ```
-
 ```
 Package    Version
 ---------- -------
@@ -46,6 +45,7 @@ How many python packages/modules are installed?
 ```
 docker run -it --entrypoint bash python:3.9
 ```
+
 
 ```
 pip list

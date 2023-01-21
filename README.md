@@ -8,4 +8,5 @@ This project was created as part of the Data Engineer Zoomcamp, organized by Dat
 
 ### High-level overview of the data pipeline
 
-![alt text](https://raw.githubusercontent.com/DataTalksClub/data-engineering-zoomcamp/main/images/architecture/arch_1.jpg)
+![alt text](https://raw.githubusercontent.com/DataTalksClub/data-engineering-zoomcamp/main/images/architecture/arch_2.png)
+

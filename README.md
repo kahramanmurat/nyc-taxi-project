@@ -1,5 +1,7 @@
 ## 1.Introduction
 
+This project was created as part of the Data Engineer Zoomcamp, organized by DataTalksClub, the largest online Data community.
+
 ### Purpose of the project
 
 ### Description of the data source(s)
